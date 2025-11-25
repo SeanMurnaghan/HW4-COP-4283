@@ -1,0 +1,1194 @@
+[
+    {
+        "\ufeffioname": "Namibia",
+        "slug": "namibia",
+        "value": "59.1",
+        "date_of_information": "2015",
+        "ranking": "1",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Botswana",
+        "slug": "botswana",
+        "value": "54.9",
+        "date_of_information": "2015",
+        "ranking": "2",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Eswatini",
+        "slug": "eswatini",
+        "value": "54.6",
+        "date_of_information": "2016",
+        "ranking": "3",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Colombia",
+        "slug": "colombia",
+        "value": "53.9",
+        "date_of_information": "2023",
+        "ranking": "4",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "Brazil",
+        "slug": "brazil",
+        "value": "51.6",
+        "date_of_information": "2023",
+        "ranking": "5",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "Zambia",
+        "slug": "zambia",
+        "value": "51.5",
+        "date_of_information": "2022",
+        "ranking": "6",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Angola",
+        "slug": "angola",
+        "value": "51.3",
+        "date_of_information": "2018",
+        "ranking": "7",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Saint Lucia",
+        "slug": "saint-lucia",
+        "value": "51.2",
+        "date_of_information": "2016",
+        "ranking": "8",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Mozambique",
+        "slug": "mozambique",
+        "value": "50.3",
+        "date_of_information": "2019",
+        "ranking": "9",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Zimbabwe",
+        "slug": "zimbabwe",
+        "value": "50.3",
+        "date_of_information": "2020",
+        "ranking": "10",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Kosovo",
+        "slug": "kosovo",
+        "value": "49.4",
+        "date_of_information": "2021",
+        "ranking": "11",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Panama",
+        "slug": "panama",
+        "value": "48.9",
+        "date_of_information": "2023",
+        "ranking": "12",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Honduras",
+        "slug": "honduras",
+        "value": "46.8",
+        "date_of_information": "2023",
+        "ranking": "13",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Singapore",
+        "slug": "singapore",
+        "value": "45.8",
+        "date_of_information": "2016",
+        "ranking": "14",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Costa Rica",
+        "slug": "costa-rica",
+        "value": "45.8",
+        "date_of_information": "2024",
+        "ranking": "15",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Guatemala",
+        "slug": "guatemala",
+        "value": "45.2",
+        "date_of_information": "2023",
+        "ranking": "16",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Lesotho",
+        "slug": "lesotho",
+        "value": "44.9",
+        "date_of_information": "2017",
+        "ranking": "17",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Congo, Democratic Republic of the",
+        "slug": "congo-democratic-republic-of-the",
+        "value": "44.7",
+        "date_of_information": "2020",
+        "ranking": "18",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Ecuador",
+        "slug": "ecuador",
+        "value": "44.6",
+        "date_of_information": "2023",
+        "ranking": "19",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "Turkey (Turkiye)",
+        "slug": "turkey-turkiye",
+        "value": "44.5",
+        "date_of_information": "2022",
+        "ranking": "20",
+        "region": "Middle East"
+    },
+    {
+        "\ufeffioname": "Paraguay",
+        "slug": "paraguay",
+        "value": "44.4",
+        "date_of_information": "2023",
+        "ranking": "21",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "South Sudan",
+        "slug": "south-sudan",
+        "value": "44",
+        "date_of_information": "2016",
+        "ranking": "22",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Grenada",
+        "slug": "grenada",
+        "value": "43.8",
+        "date_of_information": "2018",
+        "ranking": "23",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Rwanda",
+        "slug": "rwanda",
+        "value": "43.7",
+        "date_of_information": "2016",
+        "ranking": "24",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Mexico",
+        "slug": "mexico",
+        "value": "43.5",
+        "date_of_information": "2022",
+        "ranking": "25",
+        "region": "North America"
+    },
+    {
+        "\ufeffioname": "Ghana",
+        "slug": "ghana",
+        "value": "43.5",
+        "date_of_information": "2016",
+        "ranking": "26",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Chile",
+        "slug": "chile",
+        "value": "43",
+        "date_of_information": "2022",
+        "ranking": "27",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "Central African Republic",
+        "slug": "central-african-republic",
+        "value": "43",
+        "date_of_information": "2021",
+        "ranking": "28",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Uganda",
+        "slug": "uganda",
+        "value": "42.7",
+        "date_of_information": "2019",
+        "ranking": "29",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Cabo Verde",
+        "slug": "cabo-verde",
+        "value": "42.4",
+        "date_of_information": "2015",
+        "ranking": "30",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Argentina",
+        "slug": "argentina",
+        "value": "42.4",
+        "date_of_information": "2023",
+        "ranking": "31",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "Cameroon",
+        "slug": "cameroon",
+        "value": "42.2",
+        "date_of_information": "2021",
+        "ranking": "32",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Bolivia",
+        "slug": "bolivia",
+        "value": "42.1",
+        "date_of_information": "2023",
+        "ranking": "33",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "United States",
+        "slug": "united-states",
+        "value": "41.8",
+        "date_of_information": "2023",
+        "ranking": "34",
+        "region": "North America"
+    },
+    {
+        "\ufeffioname": "Djibouti",
+        "slug": "djibouti",
+        "value": "41.6",
+        "date_of_information": "2017",
+        "ranking": "35",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Uruguay",
+        "slug": "uruguay",
+        "value": "40.9",
+        "date_of_information": "2023",
+        "ranking": "36",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "Sao Tome and Principe",
+        "slug": "sao-tome-and-principe",
+        "value": "40.7",
+        "date_of_information": "2017",
+        "ranking": "37",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Malaysia",
+        "slug": "malaysia",
+        "value": "40.7",
+        "date_of_information": "2021",
+        "ranking": "38",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Peru",
+        "slug": "peru",
+        "value": "40.7",
+        "date_of_information": "2023",
+        "ranking": "39",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "Tanzania",
+        "slug": "tanzania",
+        "value": "40.5",
+        "date_of_information": "2018",
+        "ranking": "40",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Belize",
+        "slug": "belize",
+        "value": "39.9",
+        "date_of_information": "2018",
+        "ranking": "41",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Jamaica",
+        "slug": "jamaica",
+        "value": "39.9",
+        "date_of_information": "2021",
+        "ranking": "42",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "El Salvador",
+        "slug": "el-salvador",
+        "value": "39.8",
+        "date_of_information": "2023",
+        "ranking": "43",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Philippines",
+        "slug": "philippines",
+        "value": "39.3",
+        "date_of_information": "2023",
+        "ranking": "44",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Suriname",
+        "slug": "suriname",
+        "value": "39.2",
+        "date_of_information": "2022",
+        "ranking": "45",
+        "region": "South America"
+    },
+    {
+        "\ufeffioname": "Laos",
+        "slug": "laos",
+        "value": "38.8",
+        "date_of_information": "2018",
+        "ranking": "46",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Gambia, The",
+        "slug": "gambia-the",
+        "value": "38.8",
+        "date_of_information": "2020",
+        "ranking": "47",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Kenya",
+        "slug": "kenya",
+        "value": "38.7",
+        "date_of_information": "2021",
+        "ranking": "48",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Malawi",
+        "slug": "malawi",
+        "value": "38.5",
+        "date_of_information": "2019",
+        "ranking": "49",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Equatorial Guinea",
+        "slug": "equatorial-guinea",
+        "value": "38.5",
+        "date_of_information": "2022",
+        "ranking": "50",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Dominican Republic",
+        "slug": "dominican-republic",
+        "value": "38.4",
+        "date_of_information": "2023",
+        "ranking": "51",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Bulgaria",
+        "slug": "bulgaria",
+        "value": "38.2",
+        "date_of_information": "2022",
+        "ranking": "52",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Gabon",
+        "slug": "gabon",
+        "value": "38",
+        "date_of_information": "2017",
+        "ranking": "53",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Togo",
+        "slug": "togo",
+        "value": "37.9",
+        "date_of_information": "2021",
+        "ranking": "54",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Israel",
+        "slug": "israel",
+        "value": "37.9",
+        "date_of_information": "2021",
+        "ranking": "55",
+        "region": "Middle East"
+    },
+    {
+        "\ufeffioname": "Sri Lanka",
+        "slug": "sri-lanka",
+        "value": "37.7",
+        "date_of_information": "2019",
+        "ranking": "56",
+        "region": "South Asia"
+    },
+    {
+        "\ufeffioname": "Burundi",
+        "slug": "burundi",
+        "value": "37.5",
+        "date_of_information": "2020",
+        "ranking": "57",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Chad",
+        "slug": "chad",
+        "value": "37.4",
+        "date_of_information": "2022",
+        "ranking": "58",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Burkina Faso",
+        "slug": "burkina-faso",
+        "value": "37.4",
+        "date_of_information": "2021",
+        "ranking": "59",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Mauritius",
+        "slug": "mauritius",
+        "value": "36.8",
+        "date_of_information": "2017",
+        "ranking": "60",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Lithuania",
+        "slug": "lithuania",
+        "value": "36.6",
+        "date_of_information": "2022",
+        "ranking": "61",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "West Bank",
+        "slug": "west-bank",
+        "value": "36.4",
+        "date_of_information": "2023",
+        "ranking": "62",
+        "region": "Middle East"
+    },
+    {
+        "\ufeffioname": "Gaza Strip",
+        "slug": "gaza-strip",
+        "value": "36.4",
+        "date_of_information": "2023",
+        "ranking": "63",
+        "region": "Middle East"
+    },
+    {
+        "\ufeffioname": "Portugal",
+        "slug": "portugal",
+        "value": "36.3",
+        "date_of_information": "2022",
+        "ranking": "64",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Senegal",
+        "slug": "senegal",
+        "value": "36.2",
+        "date_of_information": "2021",
+        "ranking": "65",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Vietnam",
+        "slug": "vietnam",
+        "value": "36.1",
+        "date_of_information": "2022",
+        "ranking": "66",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Iran",
+        "slug": "iran",
+        "value": "35.9",
+        "date_of_information": "2023",
+        "ranking": "67",
+        "region": "Middle East"
+    },
+    {
+        "\ufeffioname": "Sierra Leone",
+        "slug": "sierra-leone",
+        "value": "35.7",
+        "date_of_information": "2018",
+        "ranking": "68",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "China",
+        "slug": "china",
+        "value": "35.7",
+        "date_of_information": "2021",
+        "ranking": "69",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Mali",
+        "slug": "mali",
+        "value": "35.7",
+        "date_of_information": "2021",
+        "ranking": "70",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Marshall Islands",
+        "slug": "marshall-islands",
+        "value": "35.5",
+        "date_of_information": "2019",
+        "ranking": "71",
+        "region": "Australia and Oceania"
+    },
+    {
+        "\ufeffioname": "Cote d'Ivoire",
+        "slug": "cote-divoire",
+        "value": "35.3",
+        "date_of_information": "2021",
+        "ranking": "72",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Liberia",
+        "slug": "liberia",
+        "value": "35.3",
+        "date_of_information": "2016",
+        "ranking": "73",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Qatar",
+        "slug": "qatar",
+        "value": "35.1",
+        "date_of_information": "2017",
+        "ranking": "74",
+        "region": "Middle East"
+    },
+    {
+        "\ufeffioname": "Russia",
+        "slug": "russia",
+        "value": "35.1",
+        "date_of_information": "2021",
+        "ranking": "75",
+        "region": "Central Asia"
+    },
+    {
+        "\ufeffioname": "Nigeria",
+        "slug": "nigeria",
+        "value": "35.1",
+        "date_of_information": "2018",
+        "ranking": "76",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Indonesia",
+        "slug": "indonesia",
+        "value": "34.9",
+        "date_of_information": "2024",
+        "ranking": "77",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Georgia",
+        "slug": "georgia",
+        "value": "34.8",
+        "date_of_information": "2023",
+        "ranking": "78",
+        "region": "Central Asia"
+    },
+    {
+        "\ufeffioname": "Malta",
+        "slug": "malta",
+        "value": "34.6",
+        "date_of_information": "2022",
+        "ranking": "79",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Uzbekistan",
+        "slug": "uzbekistan",
+        "value": "34.5",
+        "date_of_information": "2023",
+        "ranking": "80",
+        "region": "Central Asia"
+    },
+    {
+        "\ufeffioname": "Benin",
+        "slug": "benin",
+        "value": "34.4",
+        "date_of_information": "2021",
+        "ranking": "81",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Montenegro",
+        "slug": "montenegro",
+        "value": "34.3",
+        "date_of_information": "2021",
+        "ranking": "82",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Australia",
+        "slug": "australia",
+        "value": "34.3",
+        "date_of_information": "2018",
+        "ranking": "83",
+        "region": "Australia and Oceania"
+    },
+    {
+        "\ufeffioname": "Barbados",
+        "slug": "barbados",
+        "value": "34.1",
+        "date_of_information": "2016",
+        "ranking": "84",
+        "region": "Central America and the Caribbean"
+    },
+    {
+        "\ufeffioname": "Luxembourg",
+        "slug": "luxembourg",
+        "value": "34.1",
+        "date_of_information": "2022",
+        "ranking": "85",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Tajikistan",
+        "slug": "tajikistan",
+        "value": "34",
+        "date_of_information": "2015",
+        "ranking": "86",
+        "region": "Central Asia"
+    },
+    {
+        "\ufeffioname": "Taiwan",
+        "slug": "taiwan",
+        "value": "33.9",
+        "date_of_information": "2023",
+        "ranking": "87",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Switzerland",
+        "slug": "switzerland",
+        "value": "33.8",
+        "date_of_information": "2021",
+        "ranking": "88",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Tunisia",
+        "slug": "tunisia",
+        "value": "33.7",
+        "date_of_information": "2021",
+        "ranking": "89",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Latvia",
+        "slug": "latvia",
+        "value": "33.7",
+        "date_of_information": "2022",
+        "ranking": "90",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Italy",
+        "slug": "italy",
+        "value": "33.7",
+        "date_of_information": "2022",
+        "ranking": "91",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Spain",
+        "slug": "spain",
+        "value": "33.6",
+        "date_of_information": "2022",
+        "ranking": "92",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "North Macedonia",
+        "slug": "north-macedonia",
+        "value": "33.5",
+        "date_of_information": "2019",
+        "ranking": "93",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Thailand",
+        "slug": "thailand",
+        "value": "33.5",
+        "date_of_information": "2023",
+        "ranking": "94",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Greece",
+        "slug": "greece",
+        "value": "33.4",
+        "date_of_information": "2022",
+        "ranking": "95",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Guinea-Bissau",
+        "slug": "guinea-bissau",
+        "value": "33.4",
+        "date_of_information": "2021",
+        "ranking": "96",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Bangladesh",
+        "slug": "bangladesh",
+        "value": "33.4",
+        "date_of_information": "2022",
+        "ranking": "97",
+        "region": "South Asia"
+    },
+    {
+        "\ufeffioname": "Niger",
+        "slug": "niger",
+        "value": "32.9",
+        "date_of_information": "2021",
+        "ranking": "98",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Korea, South",
+        "slug": "korea-south",
+        "value": "32.9",
+        "date_of_information": "2021",
+        "ranking": "99",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Serbia",
+        "slug": "serbia",
+        "value": "32.8",
+        "date_of_information": "2022",
+        "ranking": "100",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Germany",
+        "slug": "germany",
+        "value": "32.4",
+        "date_of_information": "2020",
+        "ranking": "101",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "United Kingdom",
+        "slug": "united-kingdom",
+        "value": "32.4",
+        "date_of_information": "2021",
+        "ranking": "102",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Romania",
+        "slug": "romania",
+        "value": "32.3",
+        "date_of_information": "2022",
+        "ranking": "103",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Japan",
+        "slug": "japan",
+        "value": "32.3",
+        "date_of_information": "2020",
+        "ranking": "104",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Vanuatu",
+        "slug": "vanuatu",
+        "value": "32.3",
+        "date_of_information": "2019",
+        "ranking": "105",
+        "region": "Australia and Oceania"
+    },
+    {
+        "\ufeffioname": "Estonia",
+        "slug": "estonia",
+        "value": "32.3",
+        "date_of_information": "2022",
+        "ranking": "106",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Seychelles",
+        "slug": "seychelles",
+        "value": "32.1",
+        "date_of_information": "2018",
+        "ranking": "107",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Mauritania",
+        "slug": "mauritania",
+        "value": "32",
+        "date_of_information": "2019",
+        "ranking": "108",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Sweden",
+        "slug": "sweden",
+        "value": "31.6",
+        "date_of_information": "2022",
+        "ranking": "109",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Cyprus",
+        "slug": "cyprus",
+        "value": "31.5",
+        "date_of_information": "2022",
+        "ranking": "110",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Mongolia",
+        "slug": "mongolia",
+        "value": "31.4",
+        "date_of_information": "2022",
+        "ranking": "111",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "France",
+        "slug": "france",
+        "value": "31.2",
+        "date_of_information": "2022",
+        "ranking": "112",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Ethiopia",
+        "slug": "ethiopia",
+        "value": "31.1",
+        "date_of_information": "2021",
+        "ranking": "113",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Austria",
+        "slug": "austria",
+        "value": "30.9",
+        "date_of_information": "2022",
+        "ranking": "114",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Fiji",
+        "slug": "fiji",
+        "value": "30.7",
+        "date_of_information": "2019",
+        "ranking": "115",
+        "region": "Australia and Oceania"
+    },
+    {
+        "\ufeffioname": "Burma",
+        "slug": "burma",
+        "value": "30.7",
+        "date_of_information": "2017",
+        "ranking": "116",
+        "region": "East and Southeast Asia"
+    },
+    {
+        "\ufeffioname": "Hungary",
+        "slug": "hungary",
+        "value": "30.2",
+        "date_of_information": "2022",
+        "ranking": "117",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Nepal",
+        "slug": "nepal",
+        "value": "30",
+        "date_of_information": "2022",
+        "ranking": "118",
+        "region": "South Asia"
+    },
+    {
+        "\ufeffioname": "Croatia",
+        "slug": "croatia",
+        "value": "30",
+        "date_of_information": "2022",
+        "ranking": "119",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Ireland",
+        "slug": "ireland",
+        "value": "29.9",
+        "date_of_information": "2022",
+        "ranking": "120",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Canada",
+        "slug": "canada",
+        "value": "29.9",
+        "date_of_information": "2020",
+        "ranking": "121",
+        "region": "North America"
+    },
+    {
+        "\ufeffioname": "Iraq",
+        "slug": "iraq",
+        "value": "29.8",
+        "date_of_information": "2023",
+        "ranking": "122",
+        "region": "Middle East"
+    },
+    {
+        "\ufeffioname": "Pakistan",
+        "slug": "pakistan",
+        "value": "29.6",
+        "date_of_information": "2018",
+        "ranking": "123",
+        "region": "South Asia"
+    },
+    {
+        "\ufeffioname": "Guinea",
+        "slug": "guinea",
+        "value": "29.6",
+        "date_of_information": "2018",
+        "ranking": "124",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Albania",
+        "slug": "albania",
+        "value": "29.4",
+        "date_of_information": "2020",
+        "ranking": "125",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Maldives",
+        "slug": "maldives",
+        "value": "29.3",
+        "date_of_information": "2019",
+        "ranking": "126",
+        "region": "South Asia"
+    },
+    {
+        "\ufeffioname": "Denmark",
+        "slug": "denmark",
+        "value": "29.3",
+        "date_of_information": "2022",
+        "ranking": "127",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Kazakhstan",
+        "slug": "kazakhstan",
+        "value": "29.2",
+        "date_of_information": "2021",
+        "ranking": "128",
+        "region": "Central Asia"
+    },
+    {
+        "\ufeffioname": "Poland",
+        "slug": "poland",
+        "value": "28.9",
+        "date_of_information": "2022",
+        "ranking": "129",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Egypt",
+        "slug": "egypt",
+        "value": "28.5",
+        "date_of_information": "2021",
+        "ranking": "130",
+        "region": "Africa"
+    },
+    {
+        "\ufeffioname": "Bhutan",
+        "slug": "bhutan",
+        "value": "28.5",
+        "date_of_information": "2022",
+        "ranking": "131",
+        "region": "South Asia"
+    },
+    {
+        "\ufeffioname": "Finland",
+        "slug": "finland",
+        "value": "27.9",
+        "date_of_information": "2022",
+        "ranking": "132",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Kiribati",
+        "slug": "kiribati",
+        "value": "27.8",
+        "date_of_information": "2019",
+        "ranking": "133",
+        "region": "Australia and Oceania"
+    },
+    {
+        "\ufeffioname": "Armenia",
+        "slug": "armenia",
+        "value": "27.2",
+        "date_of_information": "2023",
+        "ranking": "134",
+        "region": "Central Asia"
+    },
+    {
+        "\ufeffioname": "Tonga",
+        "slug": "tonga",
+        "value": "27.1",
+        "date_of_information": "2021",
+        "ranking": "135",
+        "region": "Australia and Oceania"
+    },
+    {
+        "\ufeffioname": "Norway",
+        "slug": "norway",
+        "value": "26.9",
+        "date_of_information": "2022",
+        "ranking": "136",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Iceland",
+        "slug": "iceland",
+        "value": "26.6",
+        "date_of_information": "2018",
+        "ranking": "137",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Syria",
+        "slug": "syria",
+        "value": "26.6",
+        "date_of_information": "2022",
+        "ranking": "138",
+        "region": "Middle East"
+    },
+    {
+        "\ufeffioname": "Belgium",
+        "slug": "belgium",
+        "value": "26.4",
+        "date_of_information": "2022",
+        "ranking": "139",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Kyrgyzstan",
+        "slug": "kyrgyzstan",
+        "value": "26.4",
+        "date_of_information": "2022",
+        "ranking": "140",
+        "region": "Central Asia"
+    },
+    {
+        "\ufeffioname": "United Arab Emirates",
+        "slug": "united-arab-emirates",
+        "value": "26.4",
+        "date_of_information": "2018",
+        "ranking": "141",
+        "region": "Middle East"
+    },
+    {
+        "\ufeffioname": "Moldova",
+        "slug": "moldova",
+        "value": "25.9",
+        "date_of_information": "2022",
+        "ranking": "142",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Czechia",
+        "slug": "czechia",
+        "value": "25.9",
+        "date_of_information": "2022",
+        "ranking": "143",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Netherlands",
+        "slug": "netherlands",
+        "value": "25.7",
+        "date_of_information": "2021",
+        "ranking": "144",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Ukraine",
+        "slug": "ukraine",
+        "value": "25.6",
+        "date_of_information": "2020",
+        "ranking": "145",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "India",
+        "slug": "india",
+        "value": "25.5",
+        "date_of_information": "2022",
+        "ranking": "146",
+        "region": "South Asia"
+    },
+    {
+        "\ufeffioname": "Belarus",
+        "slug": "belarus",
+        "value": "24.4",
+        "date_of_information": "2020",
+        "ranking": "147",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Slovenia",
+        "slug": "slovenia",
+        "value": "24.3",
+        "date_of_information": "2022",
+        "ranking": "148",
+        "region": "Europe"
+    },
+    {
+        "\ufeffioname": "Slovakia",
+        "slug": "slovakia",
+        "value": "24.1",
+        "date_of_information": "2022",
+        "ranking": "149",
+        "region": "Europe"
+    }
+]
