@@ -1,1194 +1,1194 @@
 [
     {
-        "\ufeffioname": "Namibia",
+        "\ufeffCountryname": "Namibia",
         "slug": "namibia",
-        "value": "59.1",
+        "Gini Coefficient": "59.1",
         "date_of_information": "2015",
         "ranking": "1",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Botswana",
+        "\ufeffCountryname": "Botswana",
         "slug": "botswana",
-        "value": "54.9",
+        "Gini Coefficient": "54.9",
         "date_of_information": "2015",
         "ranking": "2",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Eswatini",
+        "\ufeffCountryname": "Eswatini",
         "slug": "eswatini",
-        "value": "54.6",
+        "Gini Coefficient": "54.6",
         "date_of_information": "2016",
         "ranking": "3",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Colombia",
+        "\ufeffCountryname": "Colombia",
         "slug": "colombia",
-        "value": "53.9",
+        "Gini Coefficient": "53.9",
         "date_of_information": "2023",
         "ranking": "4",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "Brazil",
+        "\ufeffCountryname": "Brazil",
         "slug": "brazil",
-        "value": "51.6",
+        "Gini Coefficient": "51.6",
         "date_of_information": "2023",
         "ranking": "5",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "Zambia",
+        "\ufeffCountryname": "Zambia",
         "slug": "zambia",
-        "value": "51.5",
+        "Gini Coefficient": "51.5",
         "date_of_information": "2022",
         "ranking": "6",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Angola",
+        "\ufeffCountryname": "Angola",
         "slug": "angola",
-        "value": "51.3",
+        "Gini Coefficient": "51.3",
         "date_of_information": "2018",
         "ranking": "7",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Saint Lucia",
+        "\ufeffCountryname": "Saint Lucia",
         "slug": "saint-lucia",
-        "value": "51.2",
+        "Gini Coefficient": "51.2",
         "date_of_information": "2016",
         "ranking": "8",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Mozambique",
+        "\ufeffCountryname": "Mozambique",
         "slug": "mozambique",
-        "value": "50.3",
+        "Gini Coefficient": "50.3",
         "date_of_information": "2019",
         "ranking": "9",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Zimbabwe",
+        "\ufeffCountryname": "Zimbabwe",
         "slug": "zimbabwe",
-        "value": "50.3",
+        "Gini Coefficient": "50.3",
         "date_of_information": "2020",
         "ranking": "10",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Kosovo",
+        "\ufeffCountryname": "Kosovo",
         "slug": "kosovo",
-        "value": "49.4",
+        "Gini Coefficient": "49.4",
         "date_of_information": "2021",
         "ranking": "11",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Panama",
+        "\ufeffCountryname": "Panama",
         "slug": "panama",
-        "value": "48.9",
+        "Gini Coefficient": "48.9",
         "date_of_information": "2023",
         "ranking": "12",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Honduras",
+        "\ufeffCountryname": "Honduras",
         "slug": "honduras",
-        "value": "46.8",
+        "Gini Coefficient": "46.8",
         "date_of_information": "2023",
         "ranking": "13",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Singapore",
+        "\ufeffCountryname": "Singapore",
         "slug": "singapore",
-        "value": "45.8",
+        "Gini Coefficient": "45.8",
         "date_of_information": "2016",
         "ranking": "14",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Costa Rica",
+        "\ufeffCountryname": "Costa Rica",
         "slug": "costa-rica",
-        "value": "45.8",
+        "Gini Coefficient": "45.8",
         "date_of_information": "2024",
         "ranking": "15",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Guatemala",
+        "\ufeffCountryname": "Guatemala",
         "slug": "guatemala",
-        "value": "45.2",
+        "Gini Coefficient": "45.2",
         "date_of_information": "2023",
         "ranking": "16",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Lesotho",
+        "\ufeffCountryname": "Lesotho",
         "slug": "lesotho",
-        "value": "44.9",
+        "Gini Coefficient": "44.9",
         "date_of_information": "2017",
         "ranking": "17",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Congo, Democratic Republic of the",
+        "\ufeffCountryname": "Congo, Democratic Republic of the",
         "slug": "congo-democratic-republic-of-the",
-        "value": "44.7",
+        "Gini Coefficient": "44.7",
         "date_of_information": "2020",
         "ranking": "18",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Ecuador",
+        "\ufeffCountryname": "Ecuador",
         "slug": "ecuador",
-        "value": "44.6",
+        "Gini Coefficient": "44.6",
         "date_of_information": "2023",
         "ranking": "19",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "Turkey (Turkiye)",
+        "\ufeffCountryname": "Turkey (Turkiye)",
         "slug": "turkey-turkiye",
-        "value": "44.5",
+        "Gini Coefficient": "44.5",
         "date_of_information": "2022",
         "ranking": "20",
-        "region": "Middle East"
+        "Region": "Middle East"
     },
     {
-        "\ufeffioname": "Paraguay",
+        "\ufeffCountryname": "Paraguay",
         "slug": "paraguay",
-        "value": "44.4",
+        "Gini Coefficient": "44.4",
         "date_of_information": "2023",
         "ranking": "21",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "South Sudan",
+        "\ufeffCountryname": "South Sudan",
         "slug": "south-sudan",
-        "value": "44",
+        "Gini Coefficient": "44",
         "date_of_information": "2016",
         "ranking": "22",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Grenada",
+        "\ufeffCountryname": "Grenada",
         "slug": "grenada",
-        "value": "43.8",
+        "Gini Coefficient": "43.8",
         "date_of_information": "2018",
         "ranking": "23",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Rwanda",
+        "\ufeffCountryname": "Rwanda",
         "slug": "rwanda",
-        "value": "43.7",
+        "Gini Coefficient": "43.7",
         "date_of_information": "2016",
         "ranking": "24",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Mexico",
+        "\ufeffCountryname": "Mexico",
         "slug": "mexico",
-        "value": "43.5",
+        "Gini Coefficient": "43.5",
         "date_of_information": "2022",
         "ranking": "25",
-        "region": "North America"
+        "Region": "North America"
     },
     {
-        "\ufeffioname": "Ghana",
+        "\ufeffCountryname": "Ghana",
         "slug": "ghana",
-        "value": "43.5",
+        "Gini Coefficient": "43.5",
         "date_of_information": "2016",
         "ranking": "26",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Chile",
+        "\ufeffCountryname": "Chile",
         "slug": "chile",
-        "value": "43",
+        "Gini Coefficient": "43",
         "date_of_information": "2022",
         "ranking": "27",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "Central African Republic",
+        "\ufeffCountryname": "Central African Republic",
         "slug": "central-african-republic",
-        "value": "43",
+        "Gini Coefficient": "43",
         "date_of_information": "2021",
         "ranking": "28",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Uganda",
+        "\ufeffCountryname": "Uganda",
         "slug": "uganda",
-        "value": "42.7",
+        "Gini Coefficient": "42.7",
         "date_of_information": "2019",
         "ranking": "29",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Cabo Verde",
+        "\ufeffCountryname": "Cabo Verde",
         "slug": "cabo-verde",
-        "value": "42.4",
+        "Gini Coefficient": "42.4",
         "date_of_information": "2015",
         "ranking": "30",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Argentina",
+        "\ufeffCountryname": "Argentina",
         "slug": "argentina",
-        "value": "42.4",
+        "Gini Coefficient": "42.4",
         "date_of_information": "2023",
         "ranking": "31",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "Cameroon",
+        "\ufeffCountryname": "Cameroon",
         "slug": "cameroon",
-        "value": "42.2",
+        "Gini Coefficient": "42.2",
         "date_of_information": "2021",
         "ranking": "32",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Bolivia",
+        "\ufeffCountryname": "Bolivia",
         "slug": "bolivia",
-        "value": "42.1",
+        "Gini Coefficient": "42.1",
         "date_of_information": "2023",
         "ranking": "33",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "United States",
+        "\ufeffCountryname": "United States",
         "slug": "united-states",
-        "value": "41.8",
+        "Gini Coefficient": "41.8",
         "date_of_information": "2023",
         "ranking": "34",
-        "region": "North America"
+        "Region": "North America"
     },
     {
-        "\ufeffioname": "Djibouti",
+        "\ufeffCountryname": "Djibouti",
         "slug": "djibouti",
-        "value": "41.6",
+        "Gini Coefficient": "41.6",
         "date_of_information": "2017",
         "ranking": "35",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Uruguay",
+        "\ufeffCountryname": "Uruguay",
         "slug": "uruguay",
-        "value": "40.9",
+        "Gini Coefficient": "40.9",
         "date_of_information": "2023",
         "ranking": "36",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "Sao Tome and Principe",
+        "\ufeffCountryname": "Sao Tome and Principe",
         "slug": "sao-tome-and-principe",
-        "value": "40.7",
+        "Gini Coefficient": "40.7",
         "date_of_information": "2017",
         "ranking": "37",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Malaysia",
+        "\ufeffCountryname": "Malaysia",
         "slug": "malaysia",
-        "value": "40.7",
+        "Gini Coefficient": "40.7",
         "date_of_information": "2021",
         "ranking": "38",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Peru",
+        "\ufeffCountryname": "Peru",
         "slug": "peru",
-        "value": "40.7",
+        "Gini Coefficient": "40.7",
         "date_of_information": "2023",
         "ranking": "39",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "Tanzania",
+        "\ufeffCountryname": "Tanzania",
         "slug": "tanzania",
-        "value": "40.5",
+        "Gini Coefficient": "40.5",
         "date_of_information": "2018",
         "ranking": "40",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Belize",
+        "\ufeffCountryname": "Belize",
         "slug": "belize",
-        "value": "39.9",
+        "Gini Coefficient": "39.9",
         "date_of_information": "2018",
         "ranking": "41",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Jamaica",
+        "\ufeffCountryname": "Jamaica",
         "slug": "jamaica",
-        "value": "39.9",
+        "Gini Coefficient": "39.9",
         "date_of_information": "2021",
         "ranking": "42",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "El Salvador",
+        "\ufeffCountryname": "El Salvador",
         "slug": "el-salvador",
-        "value": "39.8",
+        "Gini Coefficient": "39.8",
         "date_of_information": "2023",
         "ranking": "43",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Philippines",
+        "\ufeffCountryname": "Philippines",
         "slug": "philippines",
-        "value": "39.3",
+        "Gini Coefficient": "39.3",
         "date_of_information": "2023",
         "ranking": "44",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Suriname",
+        "\ufeffCountryname": "Suriname",
         "slug": "suriname",
-        "value": "39.2",
+        "Gini Coefficient": "39.2",
         "date_of_information": "2022",
         "ranking": "45",
-        "region": "South America"
+        "Region": "South America"
     },
     {
-        "\ufeffioname": "Laos",
+        "\ufeffCountryname": "Laos",
         "slug": "laos",
-        "value": "38.8",
+        "Gini Coefficient": "38.8",
         "date_of_information": "2018",
         "ranking": "46",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Gambia, The",
+        "\ufeffCountryname": "Gambia, The",
         "slug": "gambia-the",
-        "value": "38.8",
+        "Gini Coefficient": "38.8",
         "date_of_information": "2020",
         "ranking": "47",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Kenya",
+        "\ufeffCountryname": "Kenya",
         "slug": "kenya",
-        "value": "38.7",
+        "Gini Coefficient": "38.7",
         "date_of_information": "2021",
         "ranking": "48",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Malawi",
+        "\ufeffCountryname": "Malawi",
         "slug": "malawi",
-        "value": "38.5",
+        "Gini Coefficient": "38.5",
         "date_of_information": "2019",
         "ranking": "49",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Equatorial Guinea",
+        "\ufeffCountryname": "Equatorial Guinea",
         "slug": "equatorial-guinea",
-        "value": "38.5",
+        "Gini Coefficient": "38.5",
         "date_of_information": "2022",
         "ranking": "50",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Dominican Republic",
+        "\ufeffCountryname": "Dominican Republic",
         "slug": "dominican-republic",
-        "value": "38.4",
+        "Gini Coefficient": "38.4",
         "date_of_information": "2023",
         "ranking": "51",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Bulgaria",
+        "\ufeffCountryname": "Bulgaria",
         "slug": "bulgaria",
-        "value": "38.2",
+        "Gini Coefficient": "38.2",
         "date_of_information": "2022",
         "ranking": "52",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Gabon",
+        "\ufeffCountryname": "Gabon",
         "slug": "gabon",
-        "value": "38",
+        "Gini Coefficient": "38",
         "date_of_information": "2017",
         "ranking": "53",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Togo",
+        "\ufeffCountryname": "Togo",
         "slug": "togo",
-        "value": "37.9",
+        "Gini Coefficient": "37.9",
         "date_of_information": "2021",
         "ranking": "54",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Israel",
+        "\ufeffCountryname": "Israel",
         "slug": "israel",
-        "value": "37.9",
+        "Gini Coefficient": "37.9",
         "date_of_information": "2021",
         "ranking": "55",
-        "region": "Middle East"
+        "Region": "Middle East"
     },
     {
-        "\ufeffioname": "Sri Lanka",
+        "\ufeffCountryname": "Sri Lanka",
         "slug": "sri-lanka",
-        "value": "37.7",
+        "Gini Coefficient": "37.7",
         "date_of_information": "2019",
         "ranking": "56",
-        "region": "South Asia"
+        "Region": "South Asia"
     },
     {
-        "\ufeffioname": "Burundi",
+        "\ufeffCountryname": "Burundi",
         "slug": "burundi",
-        "value": "37.5",
+        "Gini Coefficient": "37.5",
         "date_of_information": "2020",
         "ranking": "57",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Chad",
+        "\ufeffCountryname": "Chad",
         "slug": "chad",
-        "value": "37.4",
+        "Gini Coefficient": "37.4",
         "date_of_information": "2022",
         "ranking": "58",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Burkina Faso",
+        "\ufeffCountryname": "Burkina Faso",
         "slug": "burkina-faso",
-        "value": "37.4",
+        "Gini Coefficient": "37.4",
         "date_of_information": "2021",
         "ranking": "59",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Mauritius",
+        "\ufeffCountryname": "Mauritius",
         "slug": "mauritius",
-        "value": "36.8",
+        "Gini Coefficient": "36.8",
         "date_of_information": "2017",
         "ranking": "60",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Lithuania",
+        "\ufeffCountryname": "Lithuania",
         "slug": "lithuania",
-        "value": "36.6",
+        "Gini Coefficient": "36.6",
         "date_of_information": "2022",
         "ranking": "61",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "West Bank",
+        "\ufeffCountryname": "West Bank",
         "slug": "west-bank",
-        "value": "36.4",
+        "Gini Coefficient": "36.4",
         "date_of_information": "2023",
         "ranking": "62",
-        "region": "Middle East"
+        "Region": "Middle East"
     },
     {
-        "\ufeffioname": "Gaza Strip",
+        "\ufeffCountryname": "Gaza Strip",
         "slug": "gaza-strip",
-        "value": "36.4",
+        "Gini Coefficient": "36.4",
         "date_of_information": "2023",
         "ranking": "63",
-        "region": "Middle East"
+        "Region": "Middle East"
     },
     {
-        "\ufeffioname": "Portugal",
+        "\ufeffCountryname": "Portugal",
         "slug": "portugal",
-        "value": "36.3",
+        "Gini Coefficient": "36.3",
         "date_of_information": "2022",
         "ranking": "64",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Senegal",
+        "\ufeffCountryname": "Senegal",
         "slug": "senegal",
-        "value": "36.2",
+        "Gini Coefficient": "36.2",
         "date_of_information": "2021",
         "ranking": "65",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Vietnam",
+        "\ufeffCountryname": "Vietnam",
         "slug": "vietnam",
-        "value": "36.1",
+        "Gini Coefficient": "36.1",
         "date_of_information": "2022",
         "ranking": "66",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Iran",
+        "\ufeffCountryname": "Iran",
         "slug": "iran",
-        "value": "35.9",
+        "Gini Coefficient": "35.9",
         "date_of_information": "2023",
         "ranking": "67",
-        "region": "Middle East"
+        "Region": "Middle East"
     },
     {
-        "\ufeffioname": "Sierra Leone",
+        "\ufeffCountryname": "Sierra Leone",
         "slug": "sierra-leone",
-        "value": "35.7",
+        "Gini Coefficient": "35.7",
         "date_of_information": "2018",
         "ranking": "68",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "China",
+        "\ufeffCountryname": "China",
         "slug": "china",
-        "value": "35.7",
+        "Gini Coefficient": "35.7",
         "date_of_information": "2021",
         "ranking": "69",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Mali",
+        "\ufeffCountryname": "Mali",
         "slug": "mali",
-        "value": "35.7",
+        "Gini Coefficient": "35.7",
         "date_of_information": "2021",
         "ranking": "70",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Marshall Islands",
+        "\ufeffCountryname": "Marshall Islands",
         "slug": "marshall-islands",
-        "value": "35.5",
+        "Gini Coefficient": "35.5",
         "date_of_information": "2019",
         "ranking": "71",
-        "region": "Australia and Oceania"
+        "Region": "Australia and Oceania"
     },
     {
-        "\ufeffioname": "Cote d'Ivoire",
+        "\ufeffCountryname": "Cote d'Ivoire",
         "slug": "cote-divoire",
-        "value": "35.3",
+        "Gini Coefficient": "35.3",
         "date_of_information": "2021",
         "ranking": "72",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Liberia",
+        "\ufeffCountryname": "Liberia",
         "slug": "liberia",
-        "value": "35.3",
+        "Gini Coefficient": "35.3",
         "date_of_information": "2016",
         "ranking": "73",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Qatar",
+        "\ufeffCountryname": "Qatar",
         "slug": "qatar",
-        "value": "35.1",
+        "Gini Coefficient": "35.1",
         "date_of_information": "2017",
         "ranking": "74",
-        "region": "Middle East"
+        "Region": "Middle East"
     },
     {
-        "\ufeffioname": "Russia",
+        "\ufeffCountryname": "Russia",
         "slug": "russia",
-        "value": "35.1",
+        "Gini Coefficient": "35.1",
         "date_of_information": "2021",
         "ranking": "75",
-        "region": "Central Asia"
+        "Region": "Central Asia"
     },
     {
-        "\ufeffioname": "Nigeria",
+        "\ufeffCountryname": "Nigeria",
         "slug": "nigeria",
-        "value": "35.1",
+        "Gini Coefficient": "35.1",
         "date_of_information": "2018",
         "ranking": "76",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Indonesia",
+        "\ufeffCountryname": "Indonesia",
         "slug": "indonesia",
-        "value": "34.9",
+        "Gini Coefficient": "34.9",
         "date_of_information": "2024",
         "ranking": "77",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Georgia",
+        "\ufeffCountryname": "Georgia",
         "slug": "georgia",
-        "value": "34.8",
+        "Gini Coefficient": "34.8",
         "date_of_information": "2023",
         "ranking": "78",
-        "region": "Central Asia"
+        "Region": "Central Asia"
     },
     {
-        "\ufeffioname": "Malta",
+        "\ufeffCountryname": "Malta",
         "slug": "malta",
-        "value": "34.6",
+        "Gini Coefficient": "34.6",
         "date_of_information": "2022",
         "ranking": "79",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Uzbekistan",
+        "\ufeffCountryname": "Uzbekistan",
         "slug": "uzbekistan",
-        "value": "34.5",
+        "Gini Coefficient": "34.5",
         "date_of_information": "2023",
         "ranking": "80",
-        "region": "Central Asia"
+        "Region": "Central Asia"
     },
     {
-        "\ufeffioname": "Benin",
+        "\ufeffCountryname": "Benin",
         "slug": "benin",
-        "value": "34.4",
+        "Gini Coefficient": "34.4",
         "date_of_information": "2021",
         "ranking": "81",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Montenegro",
+        "\ufeffCountryname": "Montenegro",
         "slug": "montenegro",
-        "value": "34.3",
+        "Gini Coefficient": "34.3",
         "date_of_information": "2021",
         "ranking": "82",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Australia",
+        "\ufeffCountryname": "Australia",
         "slug": "australia",
-        "value": "34.3",
+        "Gini Coefficient": "34.3",
         "date_of_information": "2018",
         "ranking": "83",
-        "region": "Australia and Oceania"
+        "Region": "Australia and Oceania"
     },
     {
-        "\ufeffioname": "Barbados",
+        "\ufeffCountryname": "Barbados",
         "slug": "barbados",
-        "value": "34.1",
+        "Gini Coefficient": "34.1",
         "date_of_information": "2016",
         "ranking": "84",
-        "region": "Central America and the Caribbean"
+        "Region": "Central America and the Caribbean"
     },
     {
-        "\ufeffioname": "Luxembourg",
+        "\ufeffCountryname": "Luxembourg",
         "slug": "luxembourg",
-        "value": "34.1",
+        "Gini Coefficient": "34.1",
         "date_of_information": "2022",
         "ranking": "85",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Tajikistan",
+        "\ufeffCountryname": "Tajikistan",
         "slug": "tajikistan",
-        "value": "34",
+        "Gini Coefficient": "34",
         "date_of_information": "2015",
         "ranking": "86",
-        "region": "Central Asia"
+        "Region": "Central Asia"
     },
     {
-        "\ufeffioname": "Taiwan",
+        "\ufeffCountryname": "Taiwan",
         "slug": "taiwan",
-        "value": "33.9",
+        "Gini Coefficient": "33.9",
         "date_of_information": "2023",
         "ranking": "87",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Switzerland",
+        "\ufeffCountryname": "Switzerland",
         "slug": "switzerland",
-        "value": "33.8",
+        "Gini Coefficient": "33.8",
         "date_of_information": "2021",
         "ranking": "88",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Tunisia",
+        "\ufeffCountryname": "Tunisia",
         "slug": "tunisia",
-        "value": "33.7",
+        "Gini Coefficient": "33.7",
         "date_of_information": "2021",
         "ranking": "89",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Latvia",
+        "\ufeffCountryname": "Latvia",
         "slug": "latvia",
-        "value": "33.7",
+        "Gini Coefficient": "33.7",
         "date_of_information": "2022",
         "ranking": "90",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Italy",
+        "\ufeffCountryname": "Italy",
         "slug": "italy",
-        "value": "33.7",
+        "Gini Coefficient": "33.7",
         "date_of_information": "2022",
         "ranking": "91",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Spain",
+        "\ufeffCountryname": "Spain",
         "slug": "spain",
-        "value": "33.6",
+        "Gini Coefficient": "33.6",
         "date_of_information": "2022",
         "ranking": "92",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "North Macedonia",
+        "\ufeffCountryname": "North Macedonia",
         "slug": "north-macedonia",
-        "value": "33.5",
+        "Gini Coefficient": "33.5",
         "date_of_information": "2019",
         "ranking": "93",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Thailand",
+        "\ufeffCountryname": "Thailand",
         "slug": "thailand",
-        "value": "33.5",
+        "Gini Coefficient": "33.5",
         "date_of_information": "2023",
         "ranking": "94",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Greece",
+        "\ufeffCountryname": "Greece",
         "slug": "greece",
-        "value": "33.4",
+        "Gini Coefficient": "33.4",
         "date_of_information": "2022",
         "ranking": "95",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Guinea-Bissau",
+        "\ufeffCountryname": "Guinea-Bissau",
         "slug": "guinea-bissau",
-        "value": "33.4",
+        "Gini Coefficient": "33.4",
         "date_of_information": "2021",
         "ranking": "96",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Bangladesh",
+        "\ufeffCountryname": "Bangladesh",
         "slug": "bangladesh",
-        "value": "33.4",
+        "Gini Coefficient": "33.4",
         "date_of_information": "2022",
         "ranking": "97",
-        "region": "South Asia"
+        "Region": "South Asia"
     },
     {
-        "\ufeffioname": "Niger",
+        "\ufeffCountryname": "Niger",
         "slug": "niger",
-        "value": "32.9",
+        "Gini Coefficient": "32.9",
         "date_of_information": "2021",
         "ranking": "98",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Korea, South",
+        "\ufeffCountryname": "Korea, South",
         "slug": "korea-south",
-        "value": "32.9",
+        "Gini Coefficient": "32.9",
         "date_of_information": "2021",
         "ranking": "99",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Serbia",
+        "\ufeffCountryname": "Serbia",
         "slug": "serbia",
-        "value": "32.8",
+        "Gini Coefficient": "32.8",
         "date_of_information": "2022",
         "ranking": "100",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Germany",
+        "\ufeffCountryname": "Germany",
         "slug": "germany",
-        "value": "32.4",
+        "Gini Coefficient": "32.4",
         "date_of_information": "2020",
         "ranking": "101",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "United Kingdom",
+        "\ufeffCountryname": "United Kingdom",
         "slug": "united-kingdom",
-        "value": "32.4",
+        "Gini Coefficient": "32.4",
         "date_of_information": "2021",
         "ranking": "102",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Romania",
+        "\ufeffCountryname": "Romania",
         "slug": "romania",
-        "value": "32.3",
+        "Gini Coefficient": "32.3",
         "date_of_information": "2022",
         "ranking": "103",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Japan",
+        "\ufeffCountryname": "Japan",
         "slug": "japan",
-        "value": "32.3",
+        "Gini Coefficient": "32.3",
         "date_of_information": "2020",
         "ranking": "104",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Vanuatu",
+        "\ufeffCountryname": "Vanuatu",
         "slug": "vanuatu",
-        "value": "32.3",
+        "Gini Coefficient": "32.3",
         "date_of_information": "2019",
         "ranking": "105",
-        "region": "Australia and Oceania"
+        "Region": "Australia and Oceania"
     },
     {
-        "\ufeffioname": "Estonia",
+        "\ufeffCountryname": "Estonia",
         "slug": "estonia",
-        "value": "32.3",
+        "Gini Coefficient": "32.3",
         "date_of_information": "2022",
         "ranking": "106",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Seychelles",
+        "\ufeffCountryname": "Seychelles",
         "slug": "seychelles",
-        "value": "32.1",
+        "Gini Coefficient": "32.1",
         "date_of_information": "2018",
         "ranking": "107",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Mauritania",
+        "\ufeffCountryname": "Mauritania",
         "slug": "mauritania",
-        "value": "32",
+        "Gini Coefficient": "32",
         "date_of_information": "2019",
         "ranking": "108",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Sweden",
+        "\ufeffCountryname": "Sweden",
         "slug": "sweden",
-        "value": "31.6",
+        "Gini Coefficient": "31.6",
         "date_of_information": "2022",
         "ranking": "109",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Cyprus",
+        "\ufeffCountryname": "Cyprus",
         "slug": "cyprus",
-        "value": "31.5",
+        "Gini Coefficient": "31.5",
         "date_of_information": "2022",
         "ranking": "110",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Mongolia",
+        "\ufeffCountryname": "Mongolia",
         "slug": "mongolia",
-        "value": "31.4",
+        "Gini Coefficient": "31.4",
         "date_of_information": "2022",
         "ranking": "111",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "France",
+        "\ufeffCountryname": "France",
         "slug": "france",
-        "value": "31.2",
+        "Gini Coefficient": "31.2",
         "date_of_information": "2022",
         "ranking": "112",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Ethiopia",
+        "\ufeffCountryname": "Ethiopia",
         "slug": "ethiopia",
-        "value": "31.1",
+        "Gini Coefficient": "31.1",
         "date_of_information": "2021",
         "ranking": "113",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Austria",
+        "\ufeffCountryname": "Austria",
         "slug": "austria",
-        "value": "30.9",
+        "Gini Coefficient": "30.9",
         "date_of_information": "2022",
         "ranking": "114",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Fiji",
+        "\ufeffCountryname": "Fiji",
         "slug": "fiji",
-        "value": "30.7",
+        "Gini Coefficient": "30.7",
         "date_of_information": "2019",
         "ranking": "115",
-        "region": "Australia and Oceania"
+        "Region": "Australia and Oceania"
     },
     {
-        "\ufeffioname": "Burma",
+        "\ufeffCountryname": "Burma",
         "slug": "burma",
-        "value": "30.7",
+        "Gini Coefficient": "30.7",
         "date_of_information": "2017",
         "ranking": "116",
-        "region": "East and Southeast Asia"
+        "Region": "East and Southeast Asia"
     },
     {
-        "\ufeffioname": "Hungary",
+        "\ufeffCountryname": "Hungary",
         "slug": "hungary",
-        "value": "30.2",
+        "Gini Coefficient": "30.2",
         "date_of_information": "2022",
         "ranking": "117",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Nepal",
+        "\ufeffCountryname": "Nepal",
         "slug": "nepal",
-        "value": "30",
+        "Gini Coefficient": "30",
         "date_of_information": "2022",
         "ranking": "118",
-        "region": "South Asia"
+        "Region": "South Asia"
     },
     {
-        "\ufeffioname": "Croatia",
+        "\ufeffCountryname": "Croatia",
         "slug": "croatia",
-        "value": "30",
+        "Gini Coefficient": "30",
         "date_of_information": "2022",
         "ranking": "119",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Ireland",
+        "\ufeffCountryname": "Ireland",
         "slug": "ireland",
-        "value": "29.9",
+        "Gini Coefficient": "29.9",
         "date_of_information": "2022",
         "ranking": "120",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Canada",
+        "\ufeffCountryname": "Canada",
         "slug": "canada",
-        "value": "29.9",
+        "Gini Coefficient": "29.9",
         "date_of_information": "2020",
         "ranking": "121",
-        "region": "North America"
+        "Region": "North America"
     },
     {
-        "\ufeffioname": "Iraq",
+        "\ufeffCountryname": "Iraq",
         "slug": "iraq",
-        "value": "29.8",
+        "Gini Coefficient": "29.8",
         "date_of_information": "2023",
         "ranking": "122",
-        "region": "Middle East"
+        "Region": "Middle East"
     },
     {
-        "\ufeffioname": "Pakistan",
+        "\ufeffCountryname": "Pakistan",
         "slug": "pakistan",
-        "value": "29.6",
+        "Gini Coefficient": "29.6",
         "date_of_information": "2018",
         "ranking": "123",
-        "region": "South Asia"
+        "Region": "South Asia"
     },
     {
-        "\ufeffioname": "Guinea",
+        "\ufeffCountryname": "Guinea",
         "slug": "guinea",
-        "value": "29.6",
+        "Gini Coefficient": "29.6",
         "date_of_information": "2018",
         "ranking": "124",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Albania",
+        "\ufeffCountryname": "Albania",
         "slug": "albania",
-        "value": "29.4",
+        "Gini Coefficient": "29.4",
         "date_of_information": "2020",
         "ranking": "125",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Maldives",
+        "\ufeffCountryname": "Maldives",
         "slug": "maldives",
-        "value": "29.3",
+        "Gini Coefficient": "29.3",
         "date_of_information": "2019",
         "ranking": "126",
-        "region": "South Asia"
+        "Region": "South Asia"
     },
     {
-        "\ufeffioname": "Denmark",
+        "\ufeffCountryname": "Denmark",
         "slug": "denmark",
-        "value": "29.3",
+        "Gini Coefficient": "29.3",
         "date_of_information": "2022",
         "ranking": "127",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Kazakhstan",
+        "\ufeffCountryname": "Kazakhstan",
         "slug": "kazakhstan",
-        "value": "29.2",
+        "Gini Coefficient": "29.2",
         "date_of_information": "2021",
         "ranking": "128",
-        "region": "Central Asia"
+        "Region": "Central Asia"
     },
     {
-        "\ufeffioname": "Poland",
+        "\ufeffCountryname": "Poland",
         "slug": "poland",
-        "value": "28.9",
+        "Gini Coefficient": "28.9",
         "date_of_information": "2022",
         "ranking": "129",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Egypt",
+        "\ufeffCountryname": "Egypt",
         "slug": "egypt",
-        "value": "28.5",
+        "Gini Coefficient": "28.5",
         "date_of_information": "2021",
         "ranking": "130",
-        "region": "Africa"
+        "Region": "Africa"
     },
     {
-        "\ufeffioname": "Bhutan",
+        "\ufeffCountryname": "Bhutan",
         "slug": "bhutan",
-        "value": "28.5",
+        "Gini Coefficient": "28.5",
         "date_of_information": "2022",
         "ranking": "131",
-        "region": "South Asia"
+        "Region": "South Asia"
     },
     {
-        "\ufeffioname": "Finland",
+        "\ufeffCountryname": "Finland",
         "slug": "finland",
-        "value": "27.9",
+        "Gini Coefficient": "27.9",
         "date_of_information": "2022",
         "ranking": "132",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Kiribati",
+        "\ufeffCountryname": "Kiribati",
         "slug": "kiribati",
-        "value": "27.8",
+        "Gini Coefficient": "27.8",
         "date_of_information": "2019",
         "ranking": "133",
-        "region": "Australia and Oceania"
+        "Region": "Australia and Oceania"
     },
     {
-        "\ufeffioname": "Armenia",
+        "\ufeffCountryname": "Armenia",
         "slug": "armenia",
-        "value": "27.2",
+        "Gini Coefficient": "27.2",
         "date_of_information": "2023",
         "ranking": "134",
-        "region": "Central Asia"
+        "Region": "Central Asia"
     },
     {
-        "\ufeffioname": "Tonga",
+        "\ufeffCountryname": "Tonga",
         "slug": "tonga",
-        "value": "27.1",
+        "Gini Coefficient": "27.1",
         "date_of_information": "2021",
         "ranking": "135",
-        "region": "Australia and Oceania"
+        "Region": "Australia and Oceania"
     },
     {
-        "\ufeffioname": "Norway",
+        "\ufeffCountryname": "Norway",
         "slug": "norway",
-        "value": "26.9",
+        "Gini Coefficient": "26.9",
         "date_of_information": "2022",
         "ranking": "136",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Iceland",
+        "\ufeffCountryname": "Iceland",
         "slug": "iceland",
-        "value": "26.6",
+        "Gini Coefficient": "26.6",
         "date_of_information": "2018",
         "ranking": "137",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Syria",
+        "\ufeffCountryname": "Syria",
         "slug": "syria",
-        "value": "26.6",
+        "Gini Coefficient": "26.6",
         "date_of_information": "2022",
         "ranking": "138",
-        "region": "Middle East"
+        "Region": "Middle East"
     },
     {
-        "\ufeffioname": "Belgium",
+        "\ufeffCountryname": "Belgium",
         "slug": "belgium",
-        "value": "26.4",
+        "Gini Coefficient": "26.4",
         "date_of_information": "2022",
         "ranking": "139",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Kyrgyzstan",
+        "\ufeffCountryname": "Kyrgyzstan",
         "slug": "kyrgyzstan",
-        "value": "26.4",
+        "Gini Coefficient": "26.4",
         "date_of_information": "2022",
         "ranking": "140",
-        "region": "Central Asia"
+        "Region": "Central Asia"
     },
     {
-        "\ufeffioname": "United Arab Emirates",
+        "\ufeffCountryname": "United Arab Emirates",
         "slug": "united-arab-emirates",
-        "value": "26.4",
+        "Gini Coefficient": "26.4",
         "date_of_information": "2018",
         "ranking": "141",
-        "region": "Middle East"
+        "Region": "Middle East"
     },
     {
-        "\ufeffioname": "Moldova",
+        "\ufeffCountryname": "Moldova",
         "slug": "moldova",
-        "value": "25.9",
+        "Gini Coefficient": "25.9",
         "date_of_information": "2022",
         "ranking": "142",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Czechia",
+        "\ufeffCountryname": "Czechia",
         "slug": "czechia",
-        "value": "25.9",
+        "Gini Coefficient": "25.9",
         "date_of_information": "2022",
         "ranking": "143",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Netherlands",
+        "\ufeffCountryname": "Netherlands",
         "slug": "netherlands",
-        "value": "25.7",
+        "Gini Coefficient": "25.7",
         "date_of_information": "2021",
         "ranking": "144",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Ukraine",
+        "\ufeffCountryname": "Ukraine",
         "slug": "ukraine",
-        "value": "25.6",
+        "Gini Coefficient": "25.6",
         "date_of_information": "2020",
         "ranking": "145",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "India",
+        "\ufeffCountryname": "India",
         "slug": "india",
-        "value": "25.5",
+        "Gini Coefficient": "25.5",
         "date_of_information": "2022",
         "ranking": "146",
-        "region": "South Asia"
+        "Region": "South Asia"
     },
     {
-        "\ufeffioname": "Belarus",
+        "\ufeffCountryname": "Belarus",
         "slug": "belarus",
-        "value": "24.4",
+        "Gini Coefficient": "24.4",
         "date_of_information": "2020",
         "ranking": "147",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Slovenia",
+        "\ufeffCountryname": "Slovenia",
         "slug": "slovenia",
-        "value": "24.3",
+        "Gini Coefficient": "24.3",
         "date_of_information": "2022",
         "ranking": "148",
-        "region": "Europe"
+        "Region": "Europe"
     },
     {
-        "\ufeffioname": "Slovakia",
+        "\ufeffCountryname": "Slovakia",
         "slug": "slovakia",
-        "value": "24.1",
+        "Gini Coefficient": "24.1",
         "date_of_information": "2022",
         "ranking": "149",
-        "region": "Europe"
+        "Region": "Europe"
     }
 ]
